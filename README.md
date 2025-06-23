@@ -36,9 +36,9 @@ Jupyter Notebook
 
 Clone the repository:
 
-git clone https://github.com/yourusername/hospitality-analysis.git
+git clone https://github.com/yourusername/hotel-analysis.git
 
-cd hospitality-analysis
+cd hotel_analysis
 
 Install dependencies:
 pip install -r requirements.txt
