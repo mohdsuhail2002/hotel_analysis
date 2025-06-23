@@ -36,7 +36,7 @@ Jupyter Notebook
 
 Clone the repository:
 
-git clone https://github.com/yourusername/hotel-analysis.git
+git clone https://github.com/yourusername/hotel_analysis.git
 
 cd hotel_analysis
 
